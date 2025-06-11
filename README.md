@@ -10,7 +10,9 @@ However, many users may find it difficult to assign the most appropriate tags, l
 👉 https://huggingface.co/spaces/kavyasri0821/stack_overflow_tags
 
 ## 🕸️ Data Collection (Web Scraping)
-Unlike using open datasets, this project uses custom web scraping to collect Stack Overflow data. or Data can be collected from:
+Unlike using open datasets, this project uses custom web scraping to collect Stack Overflow data.
+
+or Data can be collected from:
 Stack Overflow public datasets available on platforms like Kaggle : https://www.kaggle.com/datasets/imoore/60k-stack-overflow-questions-with-quality-rate  or via the Stack Exchange API.
 
 ## 🔧 Tools Used:
